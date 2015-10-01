@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Intent Demo</string>
+    <string name="mensaje">Escriba su nombre y luego pulse Enviar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity_two">Actividad Dos</string>
+	<string name="default_name">Nombre</string>
+	<string name="button_text">Enviar</string>
+	<string name="welcome">Bienvenido</string>
+	<string name="alert_title">Error</string>
+	<string name="alert_message">Debe escribir su nombre antes de continuar</string>
+	<string name="alert_button">Aceptar</string>
+
+</resources>
